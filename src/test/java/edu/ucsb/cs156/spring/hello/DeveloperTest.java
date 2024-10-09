@@ -48,7 +48,7 @@ public class DeveloperTest {
         assertTrue(t.getMembers().contains("Jayden"),"Team should contain Jayden");
         assertTrue(t.getMembers().contains("Kelly"),"Team should contain Kelly");
         assertTrue(t.getMembers().contains("Rohan"),"Team should contain Rohan");
-        assertTrue(t.getMembers().contains("Shiraan"),"Team should contain Shiraan");
+        assertTrue(t.getMembers().contains("Shriaan"),"Team should contain Shriaan");
         assertTrue(t.getMembers().contains("Tiffany"),"Team should contain Tiffany");
     }
 
@@ -77,9 +77,9 @@ public class DeveloperTest {
     }
 
     @Test
-    public void getTeam_returns_team_with_Shiraan() {
+    public void getTeam_returns_team_with_Shriaan() {
         Team  t = Developer.getTeam();
-        assertTrue(t.getMembers().contains("Shiraan"),"Team should contain Shiraan");
+        assertTrue(t.getMembers().contains("Shriaan"),"Team should contain Shriaan");
     }
 
     @Test
