@@ -1,11 +1,6 @@
 # jpa02-li-kelly
 
-* TODO: Correct the links to repo below, 
-  then delete this TODO.  Replace it with 
-  a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-f24/jpa02-cgaucho
-
-Repo: https://ucsb-cs156-f24/STARTER-jpa02
+Repo: https://github.com/ucsb-cs156-f24/jpa02-li-kelly
 
 Deployed at: https://jpa02-li-kelly.dokku-16.cs.ucsb.edu
 
